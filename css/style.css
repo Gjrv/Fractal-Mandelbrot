@@ -1,0 +1,19 @@
+.body{
+    background-color: #1a3e5a;
+}
+.graph,.panel{
+    margin: 0;
+    padding: 0;
+}
+.graph{
+    width: 900px;
+    height: 650px;
+}
+.parameter{
+    display:inline-block;
+}
+form>input{
+    width: 200px;
+    display: block;
+    margin-top:40px;
+}
