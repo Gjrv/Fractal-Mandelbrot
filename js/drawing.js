@@ -95,3 +95,6 @@ $(function(){
     }
 });
 draw();
+var dataUrl = canvas.toDataURL();
+
+window.open(dataUrl, "toDataURL() image", "width=600, height=200");
